@@ -15,14 +15,14 @@
   -->
 <resources>
     <string name="app_name">Affirmations</string>
-    <string name="affirmation1">I am strong.</string>
-    <string name="affirmation2">I believe in myself.</string>
-    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
-    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
-    <string name="affirmation5">I have so much to be grateful for.</string>
-    <string name="affirmation6">Good things are always coming into my life.</string>
-    <string name="affirmation7">New opportunities await me at every turn.</string>
-    <string name="affirmation8">I have the courage to follow my heart.</string>
-    <string name="affirmation9">Things will unfold at precisely the right time.</string>
-    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+    <string name="affirmation1">Kiếm chút kiến thức</string>
+    <string name="affirmation2">Buồn ngủ quá zZ... </string>
+    <string name="affirmation3">Không được! Phải lên mạng kiếm gì đó mới được</string>
+    <string name="affirmation4">Oh! Lại lăn ra ngủ zZ...</string>
+    <string name="affirmation5">Ơ?! Tôi là ai, đây là đâu</string>
+    <string name="affirmation6">Hmm...</string>
+    <string name="affirmation7">Á à biết rồi ta là đây chính là...</string>
+    <string name="affirmation8">Hả?!@# Cat hay snake. Hoặc là cake</string>
+    <string name="affirmation9">U I A</string>
+    <string name="affirmation10">Sigma boy </string>
 </resources>
